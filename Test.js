@@ -6,3 +6,5 @@ function v(a) {
 }
 
 var t = v(5);
+
+alert(t);

@@ -1,8 +1,8 @@
 var a = alert('Test');
 
-var t = function(a) {
+function v(a) {
   console.log('Input Value is: ' + a);
   return a*5;
 }
 
-t(5);
+var t = v(5);

@@ -12,3 +12,7 @@ var t = v(5);
 
 // Alert statement to print above variable value
 alert(t);
+
+for (var i=0; i<=22; i++) {
+  console.log('Value of i is : ' + i);
+}

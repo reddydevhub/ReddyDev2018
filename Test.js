@@ -14,5 +14,6 @@ var t = v(5);
 alert(t);
 
 for (var i=0; i<=22; i++) {
+  console.log(i);
   console.log('Value of i is : ' + i);
 }
